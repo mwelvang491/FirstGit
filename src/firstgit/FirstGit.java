@@ -20,6 +20,7 @@ public class FirstGit {
         int x = 5;
         int y = 6;
         int z = 3; 
+        int a = 10;
         
         
     }
